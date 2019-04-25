@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6659daec2bb53500824dd2a5ecc945b6",
+    "revision": "6b1d25c95f743bbd849bef06279e3776",
     "url": "/nimbus/index.html"
   },
   {
-    "revision": "76cd6d9dd0a83d636632",
+    "revision": "64debf8cbb9d27a04949",
     "url": "/nimbus/static/css/main.584f321a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nimbus/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "76cd6d9dd0a83d636632",
-    "url": "/nimbus/static/js/main.29a0538c.chunk.js"
+    "revision": "64debf8cbb9d27a04949",
+    "url": "/nimbus/static/js/main.48608ba3.chunk.js"
   },
   {
     "revision": "2117dd63d4a2053e7f31",

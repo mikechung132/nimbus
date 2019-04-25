@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/nimbus/precache-manifest.67e2af65184fef833893d93eb195c588.js"
+  "/nimbus/precache-manifest.457afb2500a813fc1ac39729778fd5a4.js"
 );
 
 self.addEventListener('message', (event) => {
